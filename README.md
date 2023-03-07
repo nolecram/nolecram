@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nolecram
 - 👀 I’m interested in everything open... space, software, mind...
-- 🌱 I’m currently learning security code scanning patterns
+- 🌱 I’m currently experimenting with GitHub Copilot on Machine Learning functions  
 - 📫 Message me on GitHub...
 
 <!---
