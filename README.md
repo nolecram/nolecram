@@ -17,10 +17,4 @@ You can click the Preview link to take a look at your changes.
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nolecram&layout=compact&theme=tokyonight&langs_count=8">
-</a>
-
-And this is why we love what we do...
-
-<a>
-  <img align="center" src="https://github.com/nolecram/nolecram/blob/main/Images/2.png" />
-</a>
+</a> 
