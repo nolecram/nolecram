@@ -22,5 +22,5 @@ You can click the Preview link to take a look at your changes.
 And this is why we love what we do...
 
 <a>
-  <img align="center" src="https://github.com/nolecram/nolecram/blob/main/Images/2.png$s=80" />
+  <img align="center" src="https://github.com/nolecram/nolecram/blob/main/Images/2.png" />
 </a>
