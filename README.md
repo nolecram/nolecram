@@ -7,11 +7,6 @@
 - 🌱 I’m currently experimenting with GitHub Copilot on Machine Learning functions  
 - 📫 Message me on GitHub...
 
-<!---
-nolecram/nolecram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nolecram&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
@@ -21,3 +16,6 @@ You can click the Preview link to take a look at your changes.
 
 
 ##### [but sometimes...](https://github.com/nolecram/nolecram/blob/main/Images/2.png)
+
+## <img src="https://media.giphy.com/media/26u4i741P84KsMXDy/giphy.gif" width="300"> ![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23212529&textColor=%23ffddd2&qColor=%23f94144&aColor=%2390be6d&borderColor=%23f9c74f&codeColor=%23f9c74f) <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjRhNjQ5Y2Q1N2E4OWI5MzQ4M2QwMDBjM2QyZTlkNWJlNzZiYTFmYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l2QDNEIwuqlSFjWYo/giphy.gif" width="300">
+
