@@ -17,5 +17,5 @@
 
 ##### [but sometimes...](https://github.com/nolecram/nolecram/blob/main/Images/2.png)
 
-## <img src="https://media.giphy.com/media/26u4i741P84KsMXDy/giphy.gif" width="240"> ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=graywhite) <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjRhNjQ5Y2Q1N2E4OWI5MzQ4M2QwMDBjM2QyZTlkNWJlNzZiYTFmYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l2QDNEIwuqlSFjWYo/giphy.gif" width="240">
+## <img src="https://media.giphy.com/media/26u4i741P84KsMXDy/giphy.gif" width="234"> ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=graywhite) <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjRhNjQ5Y2Q1N2E4OWI5MzQ4M2QwMDBjM2QyZTlkNWJlNzZiYTFmYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l2QDNEIwuqlSFjWYo/giphy.gif" width="234">
 
