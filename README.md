@@ -1,5 +1,5 @@
 <a>
-  <img align="center" src="https://github.com/nolecram/nolecram/blob/main/Images/1.png" />
+  <img align="center" src="https://github.com/nolecram/nolecram/blob/main/Images/1.png" width="770" />
 </a>
 
 - 👋 Hi, I’m @nolecram
