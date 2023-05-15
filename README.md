@@ -1,5 +1,5 @@
 <a>
-  <img align="center" src="https://github.com/nolecram/nolecram/blob/main/Images/1.png" width="770" />
+  <img align="center" src="https://github.com/nolecram/nolecram/blob/main/Images/1.png" width="785" />
 </a>
 
 - 👋 Hi, I’m @nolecram
@@ -11,7 +11,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nolecram&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nolecram&layout=compact&theme=tokyonight&langs_count=8">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nolecram&layout=compact&theme=tokyonight&langs_count=8" width='310'>
 </a> 
 
 
