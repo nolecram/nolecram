@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @nolecram
 - 👀 I’m interested in everything open... space, software, mind...
-- 🌱 I’m currently experimenting with GitHub Copilot on Machine Learning functions  
+- 🌱 I’m currently experimenting with GitHub Copilot and different LLMs  
 - 📫 Message me on GitHub...
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
