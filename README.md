@@ -48,6 +48,9 @@
   <a href="https://github.com/nolecram/HelpMeCopilot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nolecram&repo=HelpMeCopilot&theme=tokyonight" />
   </a>
+  <a href="https://github.com/nolecram/3d-solar-model">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nolecram&repo=3d-solar-model&theme=tokyonight" />
+  </a>
 </div>
 
 ## 🔄 Recent Activity
