@@ -1,0 +1,125 @@
+name: Profile Health Check
+
+on:
+  schedule:
+    # Run every 2 weeks on Monday at 00:00 UTC
+    - cron: '0 0 */14 * *'
+  workflow_dispatch:  # Allow manual triggering
+
+jobs:
+  check-links:
+    name: Check README Links
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+          
+      - name: Install markdown-link-check
+        run: npm install -g markdown-link-check
+
+      - name: Check links in README.md
+        run: markdown-link-check README.md -q
+        
+      - name: Notify on success
+        if: success()
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: '✅ All links in the README are working properly as of $(date)'
+            })
+            
+      - name: Notify on failure
+        if: failure()
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const issue = await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: '🔴 Broken links detected in README',
+              body: 'The scheduled health check has detected broken links in your README.md. Please review the workflow logs for details.'
+            });
+            console.log(`Created issue #${issue.data.number}`);
+
+  validate-profile:
+    name: Validate GitHub Profile
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+          
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+        
+      - name: Validate profile README.md
+        run: |
+          python -c "
+          import re
+          import requests
+          import json
+          from bs4 import BeautifulSoup
+          
+          # Read README content
+          with open('README.md', 'r') as f:
+              content = f.read()
+          
+          # Check for common markdown errors
+          errors = []
+          
+          # Check for broken image links
+          img_pattern = re.compile(r'!\[.*?\]\((.*?)\)')
+          for img_url in img_pattern.findall(content):
+              if img_url.startswith('http'):
+                  try:
+                      response = requests.head(img_url, timeout=10)
+                      if response.status_code >= 400:
+                          errors.append(f'Broken image link: {img_url}')
+                  except Exception as e:
+                      errors.append(f'Error checking image link {img_url}: {str(e)}')
+          
+          # Check for malformed markdown
+          if '![' in content and '](' not in content:
+              errors.append('Possible malformed image markdown')
+          
+          if '[' in content and '](' not in content:
+              errors.append('Possible malformed link markdown')
+          
+          # Output validation results
+          if errors:
+              print('Profile validation failed with the following errors:')
+              for error in errors:
+                  print(f'- {error}')
+              exit(1)
+          else:
+              print('Profile validation successful. No errors found.')
+          "
+          
+      - name: Notify on validation failure
+        if: failure()
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const issue = await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: '🔴 GitHub Profile validation failed',
+              body: 'The scheduled health check has detected issues with your GitHub profile README. Please review the workflow logs for details.'
+            });
+            console.log(`Created issue #${issue.data.number}`);

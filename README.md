@@ -28,49 +28,6 @@
   
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nolecram&rank_icon=github&count_private=true&show_icons=true&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nolecram&layout=compact&theme=tokyonight&langs_count=8" width='300'>
-  </a>
-</div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nolecram&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=3" alt="GitHub Trophies" />
-</div>
-
-## 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/nolecram/fruit-trading-game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nolecram&repo=fruit-trading-game&theme=tokyonight" width="400" height="140" />
-  </a>
-  <a href="https://github.com/nolecram/Commodore64-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nolecram&repo=Commodore64-&theme=tokyonight" width="400" height="140" />
-  </a>
-  <a href="https://github.com/nolecram/IAC-Examples">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nolecram&repo=IAC-Examples&theme=tokyonight" width="400" height="140" />
-  </a>
-  <a href="https://github.com/nolecram/3d-solar-model">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nolecram&repo=3d-solar-model&theme=tokyonight" width="400" height="140" />
-  </a>
-</div>
-
-## 🔄 Recent Activity
-
-<!--START_SECTION:activity-->
-<!-- This section will be automatically updated by GitHub Actions -->
-<!--END_SECTION:activity-->
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nolecram&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="780"/>
-</div>
-
 <div align="center">
   
   ## 🔗 Connect With Me
@@ -80,14 +37,4 @@
   
   **Let's connect and create something amazing together!**
   
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nolecram&label=Profile%20Visitors&color=0e75b6&style=flat-square" alt="Profile Visitors" />
-</div>
-
-<div align="center">
-  <i>Last updated: 5 April 2025</i>
 </div>
