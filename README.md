@@ -18,13 +18,13 @@
 
 <div align="center">
   
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![YAML](https://img.shields.io/badge/-YAML-0A0A0A?style=for-the-badge&logo=yaml)
-![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![YAML](https://img.shields.io/badge/-YAML-0A0A0A?style=for-the-badge&logo=yaml)](https://yaml.org/)
+[![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/)
+[![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com/)
+[![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/features/copilot)
   
 </div>
 
@@ -48,16 +48,16 @@
 
 <div align="center">
   <a href="https://github.com/nolecram/fruit-trading-game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nolecram&repo=fruit-trading-game&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nolecram&repo=fruit-trading-game&theme=tokyonight" width="400" height="140" />
   </a>
   <a href="https://github.com/nolecram/Commodore64-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nolecram&repo=Commodore64-&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nolecram&repo=Commodore64-&theme=tokyonight" width="400" height="140" />
   </a>
   <a href="https://github.com/nolecram/HelpMeCopilot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nolecram&repo=HelpMeCopilot&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nolecram&repo=HelpMeCopilot&theme=tokyonight" width="400" height="140" />
   </a>
   <a href="https://github.com/nolecram/3d-solar-model">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nolecram&repo=3d-solar-model&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nolecram&repo=3d-solar-model&theme=tokyonight" width="400" height="140" />
   </a>
 </div>
 
@@ -76,7 +76,6 @@
   ## 🔗 Connect With Me
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcocelon)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nolecram)
   [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/marco-celon.53bc8019)
   
   **Let's connect and create something amazing together!**
