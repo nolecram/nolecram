@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="center" src="https://github.com/nolecram/nolecram/blob/main/Images/3.png" width="100%" />
+  <img align="center" src="https://github.com/nolecram/nolecram/blob/main/Images/1.png" width="100%" />
   <h1>Hello there, I'm Marco! 👋</h1>
 </div>
 
