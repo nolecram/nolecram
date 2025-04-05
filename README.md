@@ -13,6 +13,9 @@
 ## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![YAML](https://img.shields.io/badge/-YAML-0A0A0A?style=flat-square&logo=yaml)
+![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?style=flat-square&logo=github)
@@ -30,30 +33,39 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nolecram&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nolecram&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=3" alt="GitHub Trophies" />
 </div>
 
 ## 🌟 Featured Projects
 
-<!-- Add your featured projects here -->
 <div align="center">
-  <a href="https://github.com/nolecram/project-name">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nolecram&repo=project-name&theme=tokyonight" />
+  <a href="https://github.com/nolecram/fruit-trading-game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nolecram&repo=fruit-trading-game&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/nolecram/Commodore64-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nolecram&repo=Commodore64-&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/nolecram/HelpMeCopilot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nolecram&repo=HelpMeCopilot&theme=tokyonight" />
   </a>
 </div>
 
 ## 🔄 Recent Activity
 
-```text
-<!-- This section can be automated with GitHub Actions -->
-```
+<!--START_SECTION:activity-->
+<!-- This section will be automatically updated by GitHub Actions -->
+<!--END_SECTION:activity-->
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nolecram&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="780"/>
+</div>
 
 <div align="center">
   
   **Let's connect and create something amazing together!**
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-  [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marcocelon)
+  [![Credly](https://img.shields.io/badge/Credly-Badges-orange?style=for-the-badge&logo=credly)](https://www.credly.com/users/marco-celon.53bc8019)
   
 </div>
 
@@ -65,5 +77,5 @@
 </p>
 
 <div align="center">
-  <i>Last updated: April 2025</i>
+  <i>Last updated: 5 April 2025</i>
 </div>
