@@ -48,16 +48,16 @@
 
 <div align="center">
   <a href="https://github.com/nolecram/fruit-trading-game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nolecram&repo=fruit-trading-game&theme=tokyonight" width="400" height="160" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nolecram&repo=fruit-trading-game&theme=tokyonight" width="400" height="140" />
   </a>
   <a href="https://github.com/nolecram/Commodore64-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nolecram&repo=Commodore64-&theme=tokyonight" width="400" height="160" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nolecram&repo=Commodore64-&theme=tokyonight" width="400" height="140" />
   </a>
-  <a href="https://github.com/nolecram/HelpMeCopilot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nolecram&repo=HelpMeCopilot&theme=tokyonight" width="400" height="160" />
+  <a href="https://github.com/nolecram/IAC-Examples">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nolecram&repo=IAC-Examples&theme=tokyonight" width="400" height="140" />
   </a>
   <a href="https://github.com/nolecram/3d-solar-model">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nolecram&repo=3d-solar-model&theme=tokyonight" width="400" height="160" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nolecram&repo=3d-solar-model&theme=tokyonight" width="400" height="140" />
   </a>
 </div>
 
