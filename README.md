@@ -12,13 +12,17 @@
 
 ## 💻 Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![YAML](https://img.shields.io/badge/-YAML-0A0A0A?style=flat-square&logo=yaml)
-![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?style=flat-square&logo=github)
+<div align="center">
+  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![YAML](https://img.shields.io/badge/-YAML-0A0A0A?style=for-the-badge&logo=yaml)
+![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+  
+</div>
 
 ## 📊 GitHub Stats
 
