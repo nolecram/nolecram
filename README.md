@@ -5,10 +5,14 @@
 
 ## 🧠 About Me
 
-- 👋 I'm @nolecram
-- 👀 I'm interested in everything open... space, software, mind...
-- 🌱 I'm currently experimenting with GitHub Copilot and different LLMs  
-- 📫 Message me on GitHub...
+<div align="center">
+  
+  👋 I'm **@nolecram**  
+  👀 I'm interested in everything open... space, software, mind...  
+  🌱 I'm currently experimenting with GitHub Copilot and different LLMs  
+  📫 Message me on GitHub...
+  
+</div>
 
 ## 💻 Tech Stack
 
@@ -69,19 +73,21 @@
 
 <div align="center">
   
-  **Let's connect and create something amazing together!**
+  ## 🔗 Connect With Me
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marcocelon)
-  [![Credly](https://img.shields.io/badge/Credly-Badges-orange?style=for-the-badge&logo=credly)](https://www.credly.com/users/marco-celon.53bc8019)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcocelon)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nolecram)
+  [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/marco-celon.53bc8019)
+  
+  **Let's connect and create something amazing together!**
   
 </div>
 
 ---
 
-<p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/nolecram/count.svg" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nolecram&label=Profile%20Visitors&color=0e75b6&style=flat-square" alt="Profile Visitors" />
+</div>
 
 <div align="center">
   <i>Last updated: 5 April 2025</i>
