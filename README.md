@@ -10,7 +10,7 @@
   👋 I'm **@nolecram**  
   👀 I'm interested in everything open... space, software, mind...  
   🌱 I'm currently experimenting with GitHub Copilot and different LLMs  
-  🚀 If you're curious about my professional journey, check [here](https://nolecram.github.io/my_professional_journey/).
+  🚀 If you're curious about my professional journey, check [here](https://nolecram.github.io/my_professional_journey/)
   
 </div>
 
